@@ -1,7 +1,9 @@
-# nnetworth.com
+# [N Networth](https://nnetworth.com/)
 
 [![Build Status](https://travis-ci.org/nnetworth/nnetworth.com.svg?branch=master)](https://travis-ci.org/nnetworth/nnetworth.com)
 [![Greenkeeper badge](https://badges.greenkeeper.io/nnetworth/nnetworth.com.svg)](https://greenkeeper.io/)
+[![alt text](https://img.shields.io/badge/slack-channel-pink.svg "Slack")](https://join.slack.com/t/nnetworth/shared_invite/enQtMjQxNjU3NDQ2NzA0LTc2NzUwZmMzODQ5MjQzYTY0OGFiMjQ4YTYzYjJiMWE0Nzk3NWE2NjUyNzU1NTMyZTdhYTJiNjMwN2YyMjM3Mjg)
+
 
 > Vue frontend for nnetworth
 
